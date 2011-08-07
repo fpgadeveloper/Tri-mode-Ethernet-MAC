@@ -1,0 +1,200 @@
+Parsing PAO project file successfully ...
+Analyzing HDL source files ...
+Analyzing HDL source files successfully ...
+HDL language for the peripheral (top level) design unit eth_mac is vhdl ...
+WARNING:MDT - Project file
+   C:\ML505\Tutorials\EthernetMAC-ML507\pcores/eth_mac.prj already exists, will
+   be overwrite and removed afterward ...
+INFO:MDT - Create temparary xst project file:
+   C:\ML505\Tutorials\EthernetMAC-ML507\pcores/eth_mac.prj
+Compiling vhdl file
+"C:/ML505/Tutorials/EthernetMAC-ML507/pcores/eth_mac_v1_00_a/hdl/vhdl/example_de
+sign/physical/rocketio_wrapper_gtx_tile.vhd" in Library eth_mac_v1_00_a.
+Entity <ROCKETIO_WRAPPER_GTX_TILE> compiled.
+Entity <ROCKETIO_WRAPPER_GTX_TILE> (Architecture <RTL>) compiled.
+Compiling vhdl file
+"C:/ML505/Tutorials/EthernetMAC-ML507/pcores/eth_mac_v1_00_a/hdl/vhdl/example_de
+sign/physical/rocketio_wrapper_gtx.vhd" in Library eth_mac_v1_00_a.
+Entity <ROCKETIO_WRAPPER_GTX> compiled.
+Entity <ROCKETIO_WRAPPER_GTX> (Architecture <RTL>) compiled.
+Compiling vhdl file
+"C:/ML505/Tutorials/EthernetMAC-ML507/pcores/eth_mac_v1_00_a/hdl/vhdl/example_de
+sign/physical/rx_elastic_buffer.vhd" in Library eth_mac_v1_00_a.
+Entity <rx_elastic_buffer> compiled.
+Entity <rx_elastic_buffer> (Architecture <structural>) compiled.
+Compiling vhdl file
+"C:/Xilinx/10.1/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v2_00_a/hdl/vhdl/
+proc_common_pkg.vhd" in Library proc_common_v2_00_a.
+Package <proc_common_pkg> compiled.
+Package body <proc_common_pkg> compiled.
+Compiling vhdl file
+"C:/Xilinx/10.1/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v2_00_a/hdl/vhdl/
+or_muxcy.vhd" in Library proc_common_v2_00_a.
+Entity <or_muxcy> compiled.
+Entity <or_muxcy> (Architecture <implementation>) compiled.
+Compiling vhdl file
+"C:/Xilinx/10.1/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v2_00_a/hdl/vhdl/
+family_support.vhd" in Library proc_common_v2_00_a.
+Package <family_support> compiled.
+Package body <family_support> compiled.
+Compiling vhdl file
+"C:/ML505/Tutorials/EthernetMAC-ML507/pcores/eth_mac_v1_00_a/hdl/vhdl/example_de
+sign/client/fifo/tx_client_fifo_8.vhd" in Library eth_mac_v1_00_a.
+Entity <tx_client_fifo_8> compiled.
+Entity <tx_client_fifo_8> (Architecture <RTL>) compiled.
+Compiling vhdl file
+"C:/ML505/Tutorials/EthernetMAC-ML507/pcores/eth_mac_v1_00_a/hdl/vhdl/example_de
+sign/client/fifo/rx_client_fifo_8.vhd" in Library eth_mac_v1_00_a.
+Entity <rx_client_fifo_8> compiled.
+Entity <rx_client_fifo_8> (Architecture <RTL>) compiled.
+Compiling vhdl file
+"C:/ML505/Tutorials/EthernetMAC-ML507/pcores/eth_mac_v1_00_a/hdl/vhdl/example_de
+sign/physical/gtx_dual_1000X.vhd" in Library eth_mac_v1_00_a.
+Entity <GTX_dual_1000X> compiled.
+Entity <GTX_dual_1000X> (Architecture <structural>) compiled.
+Compiling vhdl file
+"C:/ML505/Tutorials/EthernetMAC-ML507/pcores/eth_mac_v1_00_a/hdl/vhdl/example_de
+sign/v5_emac_v1_5.vhd" in Library eth_mac_v1_00_a.
+Entity <v5_emac_v1_5> compiled.
+Entity <v5_emac_v1_5> (Architecture <WRAPPER>) compiled.
+Compiling vhdl file
+"C:/Xilinx/10.1/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v2_00_a/hdl/vhdl/
+counter_f.vhd" in Library proc_common_v2_00_a.
+Entity <counter_f> compiled.
+Entity <counter_f> (Architecture <imp>) compiled.
+Compiling vhdl file
+"C:/Xilinx/10.1/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v2_00_a/hdl/vhdl/
+pselect_f.vhd" in Library proc_common_v2_00_a.
+Entity <pselect_f> compiled.
+Entity <pselect_f> (Architecture <imp>) compiled.
+Compiling vhdl file
+"C:/Xilinx/10.1/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v2_00_a/hdl/vhdl/
+or_gate128.vhd" in Library proc_common_v2_00_a.
+Entity <or_gate128> compiled.
+Entity <or_gate128> (Architecture <imp>) compiled.
+Compiling vhdl file
+"C:/Xilinx/10.1/EDK/hw/XilinxProcessorIPLib/pcores/proc_common_v2_00_a/hdl/vhdl/
+ipif_pkg.vhd" in Library proc_common_v2_00_a.
+Package <ipif_pkg> compiled.
+Package body <ipif_pkg> compiled.
+Compiling vhdl file
+"C:/ML505/Tutorials/EthernetMAC-ML507/pcores/eth_mac_v1_00_a/hdl/vhdl/example_de
+sign/v5_emac_v1_5_block.vhd" in Library eth_mac_v1_00_a.
+Entity <v5_emac_v1_5_block> compiled.
+Entity <v5_emac_v1_5_block> (Architecture <TOP_LEVEL>) compiled.
+Compiling vhdl file
+"C:/ML505/Tutorials/EthernetMAC-ML507/pcores/eth_mac_v1_00_a/hdl/vhdl/example_de
+sign/client/fifo/eth_fifo_8.vhd" in Library eth_mac_v1_00_a.
+Entity <eth_fifo_8> compiled.
+Entity <eth_fifo_8> (Architecture <RTL>) compiled.
+Compiling vhdl file
+"C:/Xilinx/10.1/EDK/hw/XilinxProcessorIPLib/pcores/plbv46_slave_single_v1_00_a/h
+dl/vhdl/plb_address_decoder.vhd" in Library plbv46_slave_single_v1_00_a.
+Entity <plb_address_decoder> compiled.
+Entity <plb_address_decoder> (Architecture <IMP>) compiled.
+Compiling vhdl file
+"C:/ML505/Tutorials/EthernetMAC-ML507/pcores/eth_mac_v1_00_a/hdl/vhdl/example_de
+sign/v5_emac_v1_5_locallink.vhd" in Library eth_mac_v1_00_a.
+Entity <v5_emac_v1_5_locallink> compiled.
+Entity <v5_emac_v1_5_locallink> (Architecture <TOP_LEVEL>) compiled.
+Compiling vhdl file
+"C:/ML505/Tutorials/EthernetMAC-ML507/pcores/eth_mac_v1_00_a/hdl/vhdl/example_de
+sign/client/address_swap_module_8.vhd" in Library eth_mac_v1_00_a.
+Entity <address_swap_module_8> compiled.
+Entity <address_swap_module_8> (Architecture <arch1>) compiled.
+Compiling vhdl file
+"C:/Xilinx/10.1/EDK/hw/XilinxProcessorIPLib/pcores/plbv46_slave_single_v1_00_a/h
+dl/vhdl/plb_slave_attachment.vhd" in Library plbv46_slave_single_v1_00_a.
+Entity <plb_slave_attachment> compiled.
+Entity <plb_slave_attachment> (Architecture <implementation>) compiled.
+Compiling vhdl file
+"C:/Xilinx/10.1/EDK/hw/XilinxProcessorIPLib/pcores/plbv46_slave_single_v1_00_a/h
+dl/vhdl/plbv46_slave_single.vhd" in Library plbv46_slave_single_v1_00_a.
+Entity <plbv46_slave_single> compiled.
+Entity <plbv46_slave_single> (Architecture <implementation>) compiled.
+Compiling vhdl file
+"C:/ML505/Tutorials/EthernetMAC-ML507/pcores/eth_mac_v1_00_a/hdl/vhdl/user_logic
+.vhd" in Library eth_mac_v1_00_a.
+Entity <user_logic> compiled.
+Entity <user_logic> (Architecture <IMP>) compiled.
+Compiling vhdl file
+"C:/ML505/Tutorials/EthernetMAC-ML507/pcores/eth_mac_v1_00_a/hdl/vhdl/eth_mac.vh
+d" in Library eth_mac_v1_00_a.
+Entity <eth_mac> compiled.
+Entity <eth_mac> (Architecture <IMP>) compiled.
+
+
+Analyzing HDL attributes ...
+INFO:MDT - IPTYPE set to value : PERIPHERAL
+INFO:MDT - IMP_NETLIST set to value : TRUE
+INFO:MDT - HDL set to value : VHDL
+WARNING:MDT - Unable to delete temparary project file
+   C:\ML505\Tutorials\EthernetMAC-ML507\pcores\eth_mac.prj : 13
+INFO:MDT - Infer bus clock [SPLB_Clk] for bus interface SPLB ...
+Copying file v5_emac_v1_5.vhd to
+C:\ML505\Tutorials\EthernetMAC-ML507\pcores/eth_mac_v1_00_a/hdl/vhdl/ ...
+Copying file rx_elastic_buffer.vhd to
+C:\ML505\Tutorials\EthernetMAC-ML507\pcores/eth_mac_v1_00_a/hdl/vhdl/ ...
+Copying file gtx_dual_1000X.vhd to
+C:\ML505\Tutorials\EthernetMAC-ML507\pcores/eth_mac_v1_00_a/hdl/vhdl/ ...
+Copying file rocketio_wrapper_gtx.vhd to
+C:\ML505\Tutorials\EthernetMAC-ML507\pcores/eth_mac_v1_00_a/hdl/vhdl/ ...
+Copying file rocketio_wrapper_gtx_tile.vhd to
+C:\ML505\Tutorials\EthernetMAC-ML507\pcores/eth_mac_v1_00_a/hdl/vhdl/ ...
+Copying file v5_emac_v1_5_block.vhd to
+C:\ML505\Tutorials\EthernetMAC-ML507\pcores/eth_mac_v1_00_a/hdl/vhdl/ ...
+Copying file tx_client_fifo_8.vhd to
+C:\ML505\Tutorials\EthernetMAC-ML507\pcores/eth_mac_v1_00_a/hdl/vhdl/ ...
+Copying file rx_client_fifo_8.vhd to
+C:\ML505\Tutorials\EthernetMAC-ML507\pcores/eth_mac_v1_00_a/hdl/vhdl/ ...
+Copying file eth_fifo_8.vhd to
+C:\ML505\Tutorials\EthernetMAC-ML507\pcores/eth_mac_v1_00_a/hdl/vhdl/ ...
+Copying file v5_emac_v1_5_locallink.vhd to
+C:\ML505\Tutorials\EthernetMAC-ML507\pcores/eth_mac_v1_00_a/hdl/vhdl/ ...
+Copying file address_swap_module_8.vhd to
+C:\ML505\Tutorials\EthernetMAC-ML507\pcores/eth_mac_v1_00_a/hdl/vhdl/ ...
+Copying file user_logic.vhd to
+C:\ML505\Tutorials\EthernetMAC-ML507\pcores/eth_mac_v1_00_a/hdl/vhdl/ ...
+Copying file eth_mac.vhd to
+C:\ML505\Tutorials\EthernetMAC-ML507\pcores/eth_mac_v1_00_a/hdl/vhdl/ ...
+
+Thank you for using Create and Import Peripheral Wizard! Please find your
+imported peripheral under
+C:\ML505\Tutorials\EthernetMAC-ML507\pcores\eth_mac_v1_00_a.
+
+Summary:
+
+  Logical library     : eth_mac_v1_00_a
+  Version             : 1.00.a
+  Bus interface(s)    : SPLB 
+
+The following sub-directories will be created:
+
+  - eth_mac_v1_00_a\data
+  - eth_mac_v1_00_a\hdl
+  - eth_mac_v1_00_a\hdl\vhdl
+
+
+The following HDL source files will be copied into the eth_mac_v1_00_a\hdl\vhdl
+directory:
+
+  - v5_emac_v1_5.vhd
+  - rx_elastic_buffer.vhd
+  - gtx_dual_1000X.vhd
+  - rocketio_wrapper_gtx.vhd
+  - rocketio_wrapper_gtx_tile.vhd
+  - v5_emac_v1_5_block.vhd
+  - tx_client_fifo_8.vhd
+  - rx_client_fifo_8.vhd
+  - eth_fifo_8.vhd
+  - v5_emac_v1_5_locallink.vhd
+  - address_swap_module_8.vhd
+  - user_logic.vhd
+  - eth_mac.vhd
+
+The following files will be created under the eth_mac_v1_00_a\data directory:
+
+  - eth_mac_v2_1_0.mpd
+  - eth_mac_v2_1_0.pao
+
+

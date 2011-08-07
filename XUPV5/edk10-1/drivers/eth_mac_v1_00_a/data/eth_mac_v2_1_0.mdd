@@ -1,0 +1,15 @@
+##############################################################################
+## Filename:          C:\ML505\Tutorials\EthernetMAC/drivers/eth_mac_v1_00_a/data/eth_mac_v2_1_0.mdd
+## Description:       Microprocessor Driver Definition
+## Date:              Thu Nov 27 10:26:32 2008 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+OPTION psf_version = 2.1.0;
+
+BEGIN DRIVER eth_mac
+
+  OPTION supported_peripherals = (eth_mac);
+  OPTION depends = (common_v1_00_a);
+  OPTION copyfiles = all;
+
+END DRIVER

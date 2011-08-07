@@ -1,0 +1,15 @@
+Tri-mode Ethernet MAC
+---------------------
+
+This EDK project is based on the tutorial by FPGA Developer:
+
+http://www.fpgadeveloper.com/2008/10/tri-mode-ethernet-mac.html
+
+It instantiates the embedded Tri-mode Ethernet MAC of the 
+Virtex-5 and loops back the output.
+
+You are free to use this code in your own designs, but please 
+acknowledge my work by leaving a link to the website. Thanks.
+
+Jeff Johnson
+http://www.fpgadeveloper.com

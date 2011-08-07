@@ -1,0 +1,12 @@
+run
+-opt_level 2
+-opt_mode speed
+-ifmt mixed
+-ifn "C:\ML505\Tutorials\EthernetMAC\pcores\eth_mac_v1_00_a\devl\synthesis\eth_mac_xst.prj"
+-top eth_mac
+-p virtex5
+-ofn "C:\ML505\Tutorials\EthernetMAC\pcores\eth_mac_v1_00_a\devl\synthesis\eth_mac_xst.ngc"
+-iobuf NO
+-rtlview YES
+-hierarchy_separator /
+-work_lib eth_mac_v1_00_a

@@ -1,0 +1,9 @@
+-batch 
+-create eth_mac 
+-ver 1.00.a 
+-dir "C:\ML505\Tutorials\EthernetMAC" 
+-lang vhdl 
+-bus plbv46 s 
+-xps 
+-ise 
+-driver 

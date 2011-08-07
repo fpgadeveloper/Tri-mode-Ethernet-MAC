@@ -1,0 +1,29 @@
+##############################################################################
+## Filename:          C:\ML505\Tutorials\EthernetMAC\pcores/eth_mac_v1_00_a/data/eth_mac_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Thu Nov 27 12:22:42 2008 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v2_00_a proc_common_pkg vhdl
+lib proc_common_v2_00_a ipif_pkg vhdl
+lib proc_common_v2_00_a or_muxcy vhdl
+lib proc_common_v2_00_a or_gate128 vhdl
+lib proc_common_v2_00_a family_support vhdl
+lib proc_common_v2_00_a pselect_f vhdl
+lib proc_common_v2_00_a counter_f vhdl
+lib plbv46_slave_single_v1_00_a plb_address_decoder vhdl
+lib plbv46_slave_single_v1_00_a plb_slave_attachment vhdl
+lib plbv46_slave_single_v1_00_a plbv46_slave_single vhdl
+lib eth_mac_v1_00_a v5_emac_v1_5 vhdl
+lib eth_mac_v1_00_a rx_elastic_buffer vhdl
+lib eth_mac_v1_00_a gtp_dual_1000X vhdl
+lib eth_mac_v1_00_a rocketio_wrapper_gtp vhdl
+lib eth_mac_v1_00_a rocketio_wrapper_gtp_tile vhdl
+lib eth_mac_v1_00_a v5_emac_v1_5_block vhdl
+lib eth_mac_v1_00_a tx_client_fifo_8 vhdl
+lib eth_mac_v1_00_a rx_client_fifo_8 vhdl
+lib eth_mac_v1_00_a eth_fifo_8 vhdl
+lib eth_mac_v1_00_a v5_emac_v1_5_locallink vhdl
+lib eth_mac_v1_00_a address_swap_module_8 vhdl
+lib eth_mac_v1_00_a user_logic vhdl
+lib eth_mac_v1_00_a eth_mac vhdl
